@@ -4,7 +4,7 @@ from argparse import  RawTextHelpFormatter
 __version__ ='''
  Author: mr_shanmuk\n
  Github: githhub.com\\shanmukmichael\n
- PC Wi-Fi Passwords Gathering Tool Version : 0.1\n
+ PC Wi-Fi Passwords Gathering Tool Version : v1.0\n
 '''
 __description__= '''
  Author: mr_shanmuk\n
