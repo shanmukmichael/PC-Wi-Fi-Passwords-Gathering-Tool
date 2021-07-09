@@ -43,7 +43,7 @@ python wifi_tool.py -v
 ``` 
  Author: mr_shanmuk
 
- Github: githhub.com/shanmukmichael
+ Github: github.com/shanmukmichael
 
  PC Wi-Fi Passwords Gathering Tool Version : v1.0
 ```
