@@ -1,4 +1,5 @@
-﻿# :signal_strength: PC-Wi-Fi-Passwords-Gathering-Tool 
+﻿[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=shanmukmichael_PC-Wi-Fi-Passwords-Gathering-Tool&metric=alert_status)](https://sonarcloud.io/dashboard?id=shanmukmichael_PC-Wi-Fi-Passwords-Gathering-Tool)
+# :signal_strength: PC-Wi-Fi-Passwords-Gathering-Tool 
 * This is the commandline tool helps to gather SSID &amp; passwords , make a file &amp; send it to recipient's mail
 * NOTE : for sending mail you should turn on less secure apps option :link: https://myaccount.google.com/lesssecureapps
 * Supported for Windows only
